@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B-Ray84 or simply Basti
 - 👀 I’m interested in learning and developing Code. Also I like to develop products.
-- 🌱 I’m currently learning ASCIIDOC, Flutter, Python
+- 🌱 I’m currently learning ASCIIDOC, Flutter, Python, HTML
 - 💞️ I’m looking to collaborate on new products
 - 📫 How to reach me ... mail me: bastian.raymann@ideaplant.de
 
